@@ -1,0 +1,35 @@
+html {
+    font-size: 16px;
+    font-family: 'Comfortaa', cursive;
+    background-color: #8e5de5;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: rebeccapurple;
+    text-shadow: 3px 3px 3px #161616;
+}
+
+p, li {
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+li {
+    list-style-type: none;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #c242e3;
+    padding: 0 20px 20px 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
